@@ -242,7 +242,7 @@ Picture_Talbe= html.Div([
 
 Picture_GIZ= html.Div([
                     html.Div(
-                        html.Img(src=encode_image("GIZ Cooperation logo"),
+                        html.Img(src='https://raw.githubusercontent.com/Futile21/heroku4/master/Picture/GIZ%20Cooperation%20logo.png?token=AMQTZBRNK5IX5F25EAY7NLS6HM2GY',
 
                         style={
                             # 'height': 150,
